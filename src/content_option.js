@@ -1,15 +1,15 @@
-const logotext = "JOHN";
+const logotext = "Affan";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Mohammed Afan R",
+    description: "I’m Mohammed Affan  _ Full stack devloper,currently working in Bangalore , India",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Mohammed Afan R",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
