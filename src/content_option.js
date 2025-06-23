@@ -56,6 +56,7 @@ const skills = [{
         name: "Jquery",
         value: 85,
     },
+  
 ];
 
 const services = [{
