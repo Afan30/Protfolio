@@ -1,6 +1,6 @@
 const logotext = "Afan";
 const meta = {
-    title: "Mohammed Afan R",
+    title: "Afan",
     description: "I’m Mohammed Affan  _ MERN DEVELOPER ",
 };
 
@@ -10,6 +10,7 @@ const introdata = {
         first: "I love coding",
         second: "I build logic",
         third : "I develop websites",
+        fourth: "I solve problems",
         
     },
     description: "Passionate MERN developer focused on backend engineering. I build scalable, high-performance web applications with Node.js, Express, and MongoDB, and enjoy tackling complex backend challenges to deliver robust solutions",
@@ -81,7 +82,7 @@ const Services = [{
         description: "As a Backend Developer at Doltec Consultancy, I built a complete job portal system with Node.js, Express, and MongoDB—including admin, user, company, and HR portals. My work covered application tracking, interview scheduling, and job posting features, delivering a robust and scalable backend to power the entire platform",
     },
     {
-        title: "MERN DEV / Krutanic Solutions",
+        title: "MERN DEV / Krutanic",
         description: "As a Full Stack MERN Developer at Krutanic Solutions, created a full Learning management system using the MERN stack. Developed a robust backend with Node.js and Express, integrated MongoDB for data management, and built a responsive frontend with React. Focused on delivering high-performance, scalable web applications that enhance user experience and streamline educational processes.",
     },
     {
