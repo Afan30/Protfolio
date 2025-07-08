@@ -110,11 +110,11 @@ const Skills = [{
 ];
 
 const Services = [{
-        title: "Backend DEV / Doltec Consultancy PVT LTD",
+        title: "Backend DEV | Doltec Consultancy PVT LTD",
         description: "As a Backend Developer at Doltec Consultancy, I built a complete job portal system with Node.js, Express, and MongoDB—including admin, user, company, and HR portals. My work covered application tracking, interview scheduling, and job posting features, delivering a robust and scalable backend to power the entire platform",
     },
     {
-        title: "MERN DEV / Krutanic",
+        title: "MERN DEV | Krutanic",
         description: "As a Full Stack MERN Developer at Krutanic Solutions, created a full Learning management system using the MERN stack. Developed a robust backend with Node.js and Express, integrated MongoDB for data management, and built a responsive frontend with React. Focused on delivering high-performance, scalable web applications that enhance user experience and streamline educational processes.",
     },
     {
@@ -122,7 +122,7 @@ const Services = [{
         description: "Customer Service Executive at Flipkart, specializing in outbound voice support. Skilled in resolving customer issues and ensuring satisfaction. Also, a Subject Matter Expert providing guidance and training to enhance team performance.",
     },
 ];
-
+// add projects here 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
