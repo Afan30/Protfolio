@@ -7,11 +7,14 @@ const meta = {
 const introdata = {
     title: "I’m Mohammed Afan R",
     animated: {
-        first: "I love coding",
-        second: "I build logic",
-        third : "I develop websites",
-        fourth: "I solve problems",
-        
+    first: "I love coding",
+    second: "I build logic",
+    third: "I develop websites",
+    fourth: "I solve problems",
+    fifth: "I craft solutions",
+    sixth: "I design systems",
+    seventh: "I innovate tech",
+    eighth: "I create impact"
     },
     description: "Passionate MERN developer focused on backend engineering. I build scalable, high-performance web applications with Node.js, Express, and MongoDB, and enjoy tackling complex backend challenges to deliver robust solutions",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
