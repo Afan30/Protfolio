@@ -8,6 +8,7 @@ import {
   worktimeline,
   Skills,
   Services,
+  Certificates,
 } from "../../content_option";
 
 export const About = () => {
@@ -55,6 +56,7 @@ export const About = () => {
             </table>
           </Col>
         </Row>
+       
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Skills</h3>
@@ -92,6 +94,35 @@ export const About = () => {
                 </div>
               );
             })}
+          </Col>
+        </Row>
+         <Row className=" sec_sp">
+          <Col lg="5">
+            <h3 className="color_sec py-4">Certificates</h3>
+          </Col>
+          <Col lg="7">
+            <table className="table caption-top">
+              <tbody>
+                {Certificates.map((data, i) => {
+                  return (
+                    <tr key={i}>
+                     <th scope="row">
+                                <a
+                                    href={data.link}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    style={{ textDecoration: 'none' }}
+                                >
+                                    {data.jobtitle}
+                                </a>
+                            </th>
+                      <td>{data.where}</td>
+                      <td>{data.date}</td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
           </Col>
         </Row>
       </Container>

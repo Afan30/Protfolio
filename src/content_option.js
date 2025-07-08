@@ -33,6 +33,38 @@ const worktimeline = [
         date: "2024",
     },
 ];
+const Certificates = [
+    {
+        jobtitle: "Introduction to Prompt Engineering with GitHub Copilot", 
+        where: "Simplilearn",
+        date: "2025",
+        link: "https://drive.google.com/file/d/1TSs2wC6Oy3qH0Bk7AoW1gVil9jMpKsvo/view?usp=sharing",
+    },
+    {
+        jobtitle: "n8n course : No Code AI Agent Builder", 
+        where: "Simplilearn ",
+        date: "2025",
+        link: "https://drive.google.com/file/d/1lG3mvdGoZ-UUAtCq3mlDBRmCe6uOv8As/view?usp=sharing",
+    },
+    {
+        jobtitle: "ChatGPT For Everyone", 
+        where: "Learn Prompting",
+        date: "2025",
+        link: "https://drive.google.com/file/d/15wHs0IkDsIAQXjh2quNMW6szIRo4icLy/view?usp=sharing",
+    },
+    {
+        jobtitle: "Java SE 8 Programmer I", 
+        where: "Simplilearn", 
+        date: "2023",
+        link: "https://drive.google.com/file/d/1EE1CGO5GMOMei96DRWu6jwV11Ejormaj/view?usp=sharing",
+    },
+    {
+        jobtitle: "Full Stack Mern Developer",
+        where: "Appteknow Career",
+        date: "2023",
+        link: "https://drive.google.com/file/d/17gKnpWrfTD3ubexO0BI6cuZWlltXm2LB/view?usp=sharing",
+    },
+];
 
 const Skills = [{
         name: "Javascript",
@@ -167,6 +199,7 @@ const socialprofils = {
     github: "https://github.com/Afan30",
     linkedin: "https://www.linkedin.com/in/mohammedafan/",
 };
+
 export {
     meta,
     dataabout,
@@ -178,4 +211,5 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    Certificates,
 };
