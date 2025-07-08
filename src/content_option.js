@@ -69,6 +69,10 @@ const skills = [{
         name: "Tailwind CSS",
         value: 75,
     },
+    {
+        name: "REST API",
+        value: 75,
+    },
   
 ];
 
