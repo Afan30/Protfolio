@@ -17,7 +17,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "a bit about my self",
+    title: "A bit about my self",
     aboutme: "Driven Full Stack MERN Developer with a passion for backend engineering. I specialize in building scalable, high-performance web applications using MongoDB, Express.js, and Node.js, paired with React to create intuitive user interfaces. I love diving into complex backend challenges, optimizing systems for peak performance, and delivering robust, user-focused solutions that make an impact. Let’s connect to craft innovative, backend-driven projects that push boundaries!",
 };
 const worktimeline = [
@@ -33,7 +33,7 @@ const worktimeline = [
     },
 ];
 
-const skills = [{
+const Skills = [{
         name: "Javascript",
         value: 90,
     },
@@ -76,7 +76,7 @@ const skills = [{
   
 ];
 
-const services = [{
+const Services = [{
         title: "Backend DEV / Doltec Consultancy PVT LTD",
         description: "As a Backend Developer at Doltec Consultancy, I built a complete job portal system with Node.js, Express, and MongoDB—including admin, user, company, and HR portals. My work covered application tracking, interview scheduling, and job posting features, delivering a robust and scalable backend to power the entire platform",
     },
@@ -157,23 +157,22 @@ const contactConfig = {
     YOUR_EMAIL: "peacyaffan7788@gmail.com",
     YOUR_FONE: "+91 8660735565",
     description: "Let’s create something amazing together! Whether you have a project, a question, or just want to say hi, I’d love to hear from you. Drop me a message and let’s make ideas happen!",
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_zpxnf1p",
-    YOUR_TEMPLATE_ID: "template_tlw7e1c",
-    YOUR_USER_ID: "34s8Z1eJSPMBl9tNX",
+    // YOUR_SERVICE_ID: "service_zpxnf1p",
+    // YOUR_TEMPLATE_ID: "template_tlw7e1c",
+    // YOUR_USER_ID: "34s8Z1eJSPMBl9tNX",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/Afan30",
+    linkedin: "https://www.linkedin.com/in/mohammedafan/",
 };
 export {
     meta,
     dataabout,
     dataportfolio,
     worktimeline,
-    skills,
-    services,
+    Skills,
+    Services,
     introdata,
     contactConfig,
     socialprofils,
