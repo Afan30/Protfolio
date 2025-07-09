@@ -19,7 +19,6 @@ const introdata = {
     description: "Passionate MERN developer focused on backend engineering. I build scalable, high-performance web applications with Node.js, Express, and MongoDB, and enjoy tackling complex backend challenges to deliver robust solutions",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
-
 const dataabout = {
     title: "A bit about my self",
     aboutme: "Driven Full Stack MERN Developer with a passion for backend engineering. I specialize in building scalable, high-performance web applications using MongoDB, Express.js, and Node.js, paired with React to create intuitive user interfaces. I love diving into complex backend challenges, optimizing systems for peak performance, and delivering robust, user-focused solutions that make an impact. Let’s connect to craft innovative, backend-driven projects that push boundaries!",
@@ -68,7 +67,6 @@ const Certificates = [
         link: "https://drive.google.com/file/d/17gKnpWrfTD3ubexO0BI6cuZWlltXm2LB/view?usp=sharing",
     },
 ];
-
 const Skills = [{
         name: "Javascript",
         value: 90,
@@ -126,15 +124,16 @@ const Services = [{
     },
 ];
 // add projects here 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+const dataportfolio = [
+    {
+        img: "https://res.cloudinary.com/dzqtl9zvg/image/upload/v1752046422/krutanic1_ypwyoi.png",
+        description: "A Full Learning Management System Website intregated with MERN Stack, featuring Admin, User, Company, and HR portals. ",
+        link: "https://www.krutanic.com/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dzqtl9zvg/image/upload/v1752046717/doltec_qfi27g.png",
+        description: "A complete job portal system built with Node.js, Express, and MongoDB, including admin, user, company, and HR portals.",
+        link: "https://www.doltec.in/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
@@ -172,30 +171,27 @@ const dataportfolio = [{
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: "https://picsum.photos/400/550/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "peacyaffan7788@gmail.com",
     YOUR_FONE: "+91 8660735565",
     description: "Let’s create something amazing together! Whether you have a project, a question, or just want to say hi, I’d love to hear from you. Drop me a message and let’s make ideas happen!",
-    // YOUR_SERVICE_ID: "service_zpxnf1p",
-    // YOUR_TEMPLATE_ID: "template_tlw7e1c",
-    // YOUR_USER_ID: "34s8Z1eJSPMBl9tNX",
 };
 
 const socialprofils = {
