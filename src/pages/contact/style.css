@@ -1,5 +1,5 @@
 .contact__form .form-control {
-    padding: 1.375rem .75rem;
+    padding: 1.275rem .75rem;
     line-height: 1.5;
     color: var(--text-color);
     background-color: var(--bg-color);
@@ -21,7 +21,7 @@ button.btn.ac_btn:hover {
     top: 0;
     left: 0;
     right: 0;
-    height: 10px;
+    height: 9px;
     z-index: 999999999;
     background: var(--text-color);
     transform: translateX(100%);
