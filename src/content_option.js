@@ -147,7 +147,7 @@ const dataportfolio = [
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Projects will be added soon",
         link: "#",
     },
     {
@@ -163,12 +163,12 @@ const dataportfolio = [
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Projects will be added soon",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Projects will be added soon",
         link: "#",
     },
     // {
