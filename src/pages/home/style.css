@@ -1,6 +1,6 @@
 section {
     flex: 1 0 auto;
-    position: relative;
+    position: fixed;
     width: 100%;
     -webkit-transition: all .5s ease-in;
     -o-transition: all .5s ease-in;
