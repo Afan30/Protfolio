@@ -136,14 +136,14 @@ const dataportfolio = [
         link: "https://www.doltec.in/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dzqtl9zvg/image/upload/v1752056561/ilanding_sieskw.png",
+        description: "Created a responsive, SEO-friendly landing page template using HTML, CSS, JavaScript, and React for modern marketing websites.",
+        link: "https://github.com/Afan30/Learner-Website.git",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dzqtl9zvg/image/upload/v1752055909/coursemaster_frjxae.png",
+        description: "Developed Course Master, a responsive and modular frontend template using HTML, CSS, JavaScript and SASS for educational platforms.",
+        link: "https://github.com/Afan30/Course-Master.git",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
@@ -151,15 +151,15 @@ const dataportfolio = [
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dzqtl9zvg/image/upload/v1752057479/screencapture-file-E-website-template-Bootslander-1-0-0-index-html-2025-07-09-16_05_45_ahmy7m.png",
+        description: "Developed Bootslander, a responsive e-commerce website template using HTML, CSS, and JavaScript.",
+        link: "https://github.com/Afan30/Single-Page-Template-Website.git",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://res.cloudinary.com/dzqtl9zvg/image/upload/v1752059643/index_ljjdaf.png",
+        description: "Created a simple and responsive portfolio website using HTML, CSS, and JavaScript, showcasing my skills and projects.",
+        link: "https://github.com/Afan30/Website-Template-Landing-Page-.git",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
